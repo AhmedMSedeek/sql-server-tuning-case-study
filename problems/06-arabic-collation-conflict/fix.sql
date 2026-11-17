@@ -1,0 +1,1 @@
+-- No database change: the fix is in the query (collation on the temp-table side).

@@ -1,0 +1,7 @@
+﻿"Problem","Rows","ReadsBefore","ReadsAfter","CpuMsBefore","CpuMsAfter","ElapsedBefore","ElapsedAfter","SameResult","Hash"
+"01-non-sargable-dates","12","12290","235","406","23.5","448","27.2","yes","5075F6D21FFEC84C"
+"02-implicit-conversion","1","1079","6","15.5","0","29.7","1.4","yes","8E363E15C8386FE9"
+"03-key-lookups","50","12472","3","16","0","16.9","1.6","yes","DD398B1711D48F24"
+"04-parameter-sniffing","12","5695700","8428","4062.5","492.5","5830.6","520.5","yes","F505FCDFD38FD63B"
+"05-deep-offset-paging","50","1532398","156","1250","0","1274.6","1.8","yes","089A8B300225000B"
+"06-arabic-collation-conflict","5327","815","62","62.5","0","80.3","19","yes","43EB33C0A17AF191"

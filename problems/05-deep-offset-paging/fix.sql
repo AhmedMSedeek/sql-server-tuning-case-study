@@ -1,0 +1,1 @@
+-- No database change: the fix is the paging method (keyset instead of OFFSET).
